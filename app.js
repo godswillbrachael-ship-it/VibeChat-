@@ -1,1 +1,3 @@
-console.log("Welcome to VibeChat!");
+document.querySelector("button").addEventListener("click", () => {
+    alert("Welcome to VibeChat!");
+});
